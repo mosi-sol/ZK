@@ -22,7 +22,7 @@
 - no need to save any file on your device.
 
 #
-### how to
+### why & how to
 Imagine Alice, Bob and Peter wanting to give their token anonymously to 3 other people.
 
 Because all transactions are visible in public blockchains, the transmitter is not secure for the sender and receiver.
