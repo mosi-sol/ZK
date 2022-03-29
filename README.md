@@ -1,4 +1,4 @@
-# ZK
+# ZKproof (zero knowledge proof) 
 **Project**: zero knowledge anonymous transaction onchain & on a pool smart contract
 
 ---
