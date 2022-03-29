@@ -1,5 +1,5 @@
 # ZK
-**Project**: zero knowledge anonymous transaction on a pool smart contract
+**Project**: zero knowledge anonymous transaction onchain & on a pool smart contract
 
 ---
 
