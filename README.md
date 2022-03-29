@@ -36,6 +36,13 @@ Alice, Bob and Peter store their tokens in a smart contract (provided they send 
 
 In this case, it is not clear which receiver received the token from which sender. 
 
+<br />
+
+**requirement**
+
+- pool
+- 
+
 #
 ### roadmap
 
