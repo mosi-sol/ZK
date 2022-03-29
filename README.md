@@ -28,6 +28,7 @@ Imagine Alice, Bob and Peter wanting to give their token anonymously to 3 other 
 
 Because all transactions are visible in public blockchains, the transmitter is not secure for the sender and receiver.
 
+<br />
 
 **The solution to this problem:**
 
