@@ -41,7 +41,8 @@ In this case, it is not clear which receiver received the token from which sende
 **requirement**
 
 - pool
-- 
+- tokenamize
+- how to send key to the recipient
 
 #
 ### roadmap
