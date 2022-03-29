@@ -47,3 +47,13 @@ In this case, it is not clear which receiver received the token from which sende
 ### roadmap
 
 ### light papper
+
+
+##
+
+<p align="right"> 
+  <a href="https://github.com/mosi-sol/erc721" target="blank">
+  <img src="https://img.shields.io/badge/Ver-0.1-lightblue?style=flat" alt="cafe_pafe" /></a>
+  <a href="https://github.com/mosi-sol/erc721" target="blank">
+  <img src="https://img.shields.io/badge/License-MIT-lightblue?style=flat" alt="cafe_pafe" /></a>
+</p>
