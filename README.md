@@ -21,6 +21,18 @@
 - the password is a hash from a string, has been created onchain.
 - no need to save any file on your device.
 
+#
+### how to
+Imagine Alice, Bob and Peter wanting to give their token anonymously to 3 other people.
+
+Because all transactions are visible in public blockchains, the transmitter is not secure for the sender and receiver.
+
+The solution to this problem:
+Alice, Bob and Peter store their tokens in a smart contract (provided they send the equivalent of one token), and over time (for added security) the recipients withdraw their token.
+
+In this case, it is not clear which receiver received the token from which sender. 
+
+#
 ### roadmap
 
 ### light papper
