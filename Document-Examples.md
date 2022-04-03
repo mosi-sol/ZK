@@ -29,17 +29,17 @@ look at this code for example:
 ```
 function withdraw(string memory password) public noReentrant {
 
-require(gen(password) == hashedPass, "Access denied!");
+  require(gen(password) == hashedPass, "Access denied!");
 
-(bool success, ) = msg.sender.call{value: address(this).balance}("");
+  (bool success, ) = msg.sender.call{value: address(this).balance}("");
 
-require(success);
+  require(success);
 
 }
 
 function gen(string memory pas) internal pure returns (bytes16 _pasGen) {
 
-_pasGen = bytes16(keccak256(abi.encodePacked(pas)));
+  _pasGen = bytes16(keccak256(abi.encodePacked(pas)));
 
 }
 ```
