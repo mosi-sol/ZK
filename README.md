@@ -3,8 +3,9 @@
 # ZKproof (zero knowledge proof) 
 **Project**: zero knowledge anonymous transaction onchain & on a pool smart contract
 
-- basic example for 1 target [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20)
-- read more about this article on [HACKERNOON](https://hackernoon.com/preview/k9fK6cWEjCwfa5Vc5cmO)
+- basic example for 1 target [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) 
+- read more about this article on [HACKERNOON](https://hackernoon.com/preview/k9fK6cWEjCwfa5Vc5cmO) 
+- read more about usecase [here](https://github.com/mosi-sol/ZK/blob/main/Document-Examples.md) 
 
 ---
 
