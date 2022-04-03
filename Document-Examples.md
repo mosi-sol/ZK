@@ -46,7 +46,9 @@ function gen(string memory pas) internal pure returns (bytes16 _pasGen) {
 
 ` example: 0xfb39401d483e3b8ed34e9d5cb7b345ab <- mosi-sol `
 
-source at: [github/mosi-sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) (my github repo for solidity language)
+- source at: [github/mosi-sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) (my github repo for solidity language) 
+- full content [here](https://github.com/mosi-sol/ZK) 
+- about this article on [hackernoon](https://hackernoon.com/preview/k9fK6cWEjCwfa5Vc5cmO) 
 
 in this code we made our own password, and can withdraw by that generated hash password for withdrawing our asset. [attention: this code is example and not full yet, just for this article].
 
