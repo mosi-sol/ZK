@@ -10,7 +10,7 @@ the concept of own banking system and control to own assets by using blockchain 
 
 in `solidity` (ethereum base smartcontract language) you can withdraw your asset. look at this example:
 
-```
+```solidity
 function withdraw() public noReentrant onlyowner { 
 
   (bool success, ) = msg.sender.call{value: address(this).balance}(""); 
@@ -26,7 +26,7 @@ now if you want more security you can add some codes to make/generate password. 
 
 look at this code for example:
 
-```
+```solidity
 function withdraw(string memory password) public noReentrant {
 
   require(gen(password) == hashedPass, "Access denied!");
