@@ -46,12 +46,6 @@ In this case, it is not clear which receiver received the token from which sende
 - tokenamize
 - how to send key to the recipient
 
-#
-### (as soon) roadmap
-
-### (as soon) light papper
-
-
 ##
 
 <p align="right"> 
